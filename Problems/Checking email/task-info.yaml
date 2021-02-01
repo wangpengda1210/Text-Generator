@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def check_email(string):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9561#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 01 Feb 2021 00:58:07 UTC
+record: -1
